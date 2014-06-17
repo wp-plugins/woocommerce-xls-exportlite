@@ -53,7 +53,7 @@ If you like the plugin please [Donate here](http://tinyurl.com/owxtkmt).
 Please make note that this plugin will only work if your woocommerce plugin is actived.
 
 
-Visit our <a href="#">demo page</a> for more information.
+Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more information.
 
 
 == Screenshots ==
@@ -64,4 +64,4 @@ Visit our <a href="#">demo page</a> for more information.
 4. Set the name of the archive in data and time format, and can set other information too for the exported file.
 
 
-Visit our <a href="#">demo page</a> for more information.
+Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more information.

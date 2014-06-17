@@ -1,15 +1,15 @@
 <?php 
 /*
 Plugin Name: WooCommerce - Xls Export (Lite)
-Plugin URI: http://www.vivacityinfotech.com/
+Plugin URI: http://vivacityinfotech.net
 Description: Export store details out of WooCommerce into a Excel spreadsheet.
 Version: 1.00
 Author: Vivacity Infotech Pvt. Ltd.
-Author URI: http://www.vivacityinfotech.com/
+Author URI: http://vivacityinfotech.net
 License: GPL2
 */
 /*
-Copyright 2014  Vivacity InfoTech Pvt. Ltd.  (email : vivacityinfotech.jaipur@gmail.com)
+Copyright 2014  Vivacity InfoTech Pvt. Ltd.  (email : support@vivacityinfotech.com)
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
     published by the Free Software Foundation.
