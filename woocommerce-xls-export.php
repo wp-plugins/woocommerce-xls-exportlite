@@ -6,6 +6,7 @@ Description: Export store details out of WooCommerce into a Excel spreadsheet.
 Version: 1.00
 Author: Vivacity Infotech Pvt. Ltd.
 Author URI: http://vivacityinfotech.net
+* Author Email: support@vivacityinfotech.net
 License: GPL2
 */
 /*
