@@ -65,3 +65,10 @@ Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more informat
 
 
 Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more information.
+
+== Changelog ==
+
+
+= 1.0 =
+* Initial Release.
+* Compatible with Wordpress 4.3.
