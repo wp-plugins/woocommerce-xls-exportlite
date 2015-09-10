@@ -3,8 +3,7 @@ Contributors: vivacityinfotech.jaipur
 Donate link: http://tinyurl.com/owxtkmt
 Tags: Woocommerce, woocommerce excelsheet, Export, Product Export, Excel, Excel sheet, Spreadsheet, woocommerce Product XLS, woocommerce Product XLXS, woocommerce All Products XLS, woocommerce XLXS export, woocommerce Category export, woocommerce Category XLS export, woocommerce Category XLXS, Product XLS, Product XLXS, All Products XLS, XLXS export, Category export, Category XLS export, Category XLXS,  XLS Archive download, Archive
 Requires at least: 3.5
-Tested up to: 4.2
-
+Tested up to: 4.3
 License: GPLv2 or later
 
 == Description ==
@@ -67,7 +66,6 @@ Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more informat
 Visit our <a href="http://vivacityinfotech.net/">demo page</a> for more information.
 
 == Changelog ==
-
 
 = 1.0 =
 * Initial Release.
